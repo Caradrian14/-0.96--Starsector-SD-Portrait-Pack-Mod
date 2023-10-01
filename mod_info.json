@@ -1,0 +1,8 @@
+{
+	"id":"stabledifusionpack", # internal id
+	"name":"Stable Difusion Potrait", # displayed to the player
+	"author":"Lyra_Constellation",
+	"version":"0,5",
+	"description":"Adds portraits made it with Stable Difussion.",
+	"gameVersion":"0.96a-RC7",
+}
